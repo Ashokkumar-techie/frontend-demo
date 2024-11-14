@@ -1,4 +1,4 @@
 # frontend-demo
 This is my first github project
 <br>
-Author - Ashokkumar
+Author - Ashokkumar  (Techie developer)
